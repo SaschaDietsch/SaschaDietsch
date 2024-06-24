@@ -1,5 +1,5 @@
 ## Hi there, I'm Sascha 👋
-I'm working in product security, specializing in threat detection and cyber risk management. I have about five years of practical cyber security experience. I'm on the autism spectrum and appreciate dirct conversations without beating around the bush.
+I'm working in product security, specializing in threat detection and cyber risk management. I have about five years of practical cyber security experience. I'm on the autism spectrum and appreciate direct conversations without beating around the bush.
 <!--
 **SaschaDietsch/SaschaDietsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
